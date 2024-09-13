@@ -1,7 +1,7 @@
 # HomeWork 2 "Neural Networks" Course
 
 The goal is to learn ***pytorch*** basics while MNIST processing. 
-<br> Couple of activations were tested: </br>
+<br> Couple of activations were tested (*comparing to sigmoid*): </br>
 
 ## ReLU (Rectified Linear Unit)
 
@@ -27,4 +27,13 @@ $\alpha$ - hyperparameter which controls value for negative inputs.
 
 ### $tanh(z) = \frac{2}{1 + e^{-2z}} - 1 = \frac{e^{z} - e^{-z}}{e^{z} + e^{-z}} = \frac{e^{2z} - 1}{e^{2z} + 1}$ - hyperbolic tangent
 ### $\frac{\partial tanh(z)}{\partial z} = 1 - tanh^{2}(z)$ - derivative
+
+<img src="pictures_and_plots/tanh_pic.png" alt="ELU plots" width="800"/>
+
+## Activations results
+
+<img src="pictures_and_plots/activations_result.png" alt="ELU plots" width="800"/>
+
+
+
 
