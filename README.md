@@ -9,6 +9,8 @@ The goal is to learn ***pytorch*** basics while MNIST processing.
 
 ![ReLU plots](pictures_and_plots/relu_pic.png)
 
+<img src="pictures_and_plots/relu_pic.png" alt="ReLU plots" width="800"/>
+
 ## ELU (Exponential Linear Unit)
 
 $$
