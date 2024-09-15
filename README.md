@@ -34,6 +34,17 @@ $\alpha$ - hyperparameter which controls value for negative inputs.
 
 <img src="pictures_and_plots/activations_result.png" alt="ELU plots" width="800"/>
 
+## Augmentation approaches
+
+### 1. Image rotations
+### 2. Image shifts
+### 3. Gaussian Noise apply
+### 4. Combination of approaches
+
+## Augmentation results
+
+<img src="pictures_and_plots/comparison_augmentation.png" alt="ELU plots" width="800"/>
+
 
 
 
